@@ -21,5 +21,5 @@ if (isset($_POST['name']))
 	$s->bindValue(':id', $id);
 	$s->execute();
 }
-//nhtg
+//-----
 ?>
