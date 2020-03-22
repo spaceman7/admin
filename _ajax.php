@@ -1,4 +1,5 @@
 <?php
+//-----
 if (isset($_POST['name'])) 
 {
     $column = $_POST['name'];
